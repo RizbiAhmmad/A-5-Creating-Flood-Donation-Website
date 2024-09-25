@@ -10,3 +10,13 @@ function gettextFieldValueById(id){
     const textNumber = parseFloat(textValue);
     return textNumber;
 }
+
+// showSectionById(id){
+//     // hide section
+//     document.getElementById('btn-history').classList.add('hidden');
+
+//     document.getElementById('btn-history').classList.remove('hidden');
+
+
+
+// }
